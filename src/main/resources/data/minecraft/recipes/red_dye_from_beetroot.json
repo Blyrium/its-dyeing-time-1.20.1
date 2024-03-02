@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "red_dye",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:nether_wart"
+      },
+      {
+        "item": "minecraft:beetroot"
+      },
+      {
+        "item": "minecraft:fire_coral"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:red_dye"
+  }
+}
