@@ -3,7 +3,7 @@
 	"id": "itsdyeingtime",
 	"version": "${version}",
 	"name": "It's Dyeing Time!",
-	"description": "Turn more items into dyes and add more dye mixing recipes.",
+	"description": "Turn more items into dyes and use more dye mixing recipes.",
 	"authors": [
 		"Blyrium"
 	],
