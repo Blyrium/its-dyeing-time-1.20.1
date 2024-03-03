@@ -34,6 +34,10 @@ Horn Coral
 
 ## A Few Notes
 
+**Q: Corals?**
+
+A: Yes. Bonemeal the ocean floors and enjoy. Check the wiki.
+
 **Q: Will this work with Ordana's [Logical Dye Mixing](https://modrinth.com/datapack/logical-dye-mixing)?**
 
 A: It should. There's one overlapping recipe, though, but it shouldn't be a problem (the result is the same).
