@@ -1,4 +1,47 @@
 ### New Black Dyeing Agents
+
+![Black Dye from Coal/Charcoal](https://cdn.modrinth.com/data/UGmbYe4K/images/afb598458251b6e0ca0c209b68ae97d6d21fb7fb.png)
+
+Coal or Charcoal
+
+### New Black Dye Mixing Recipes
+
+![Green Dye + Red Dye = 2 Black Dye, or Blue Dye + Orange Dye = 2 Black Dye](https://cdn.modrinth.com/data/UGmbYe4K/images/4a1476c21140a35f2246036824a6262e3e853e52.gif)
+
+### New Blue Dyeing Agent
+
+![Blue Dye from Tube Coral](https://cdn.modrinth.com/data/UGmbYe4K/images/a5e372a405bc3b83a2454e010c81722909606c62.png)
+
+That's Tube Coral, btw.
+
+### New Brown Dyeing Agent
+
+![2 Brown Mushrooms = 1 Brown Dye](https://cdn.modrinth.com/data/UGmbYe4K/images/409c14954a2c0c905e83c0db4240ede33c64cd6a.png)
+
+Two mushrooms because the stem isn't really brown now, is it?
+
+### New Brown Dye Mixing Recipes
+
+![1 Red Dye + 2 Green Dyes = 3 Brown Dyes, or  Yellow Dye + Purple Dye = 2 Brown Dyes](https://cdn.modrinth.com/data/UGmbYe4K/images/0a0a6fdaaf4fc839d7d27602e468c14dddb58179.gif)
+
+### New Gray Dyeing Agent
+
+![gunpowder = gray die](https://cdn.modrinth.com/data/UGmbYe4K/images/0aa318775c7d1402edf5933f33a63c07dec88e65.png)
+
+Gunpowder
+
+### New Green Dyeing Agent
+
+![1 kelp = 1 green dye](https://cdn.modrinth.com/data/UGmbYe4K/images/4e6ca316358fbd514178b2ffce3afdd79fbec700.png)
+
+Kelp
+
+### New Green Dye Mixing Recipe
+
+![blue dye + yellow dye = 2 green dyes](https://cdn.modrinth.com/data/UGmbYe4K/images/304a127b305c2a2c61624c86f7d31609d7803cac.png)
+
+### New Magenta Dyeing Agent
+
 ![bubble coral = magenta dye](https://cdn.modrinth.com/data/UGmbYe4K/images/219e7860069eee50778ab4d9a969cc75b352baa3.png)
 
 ### New Orange Dyeing Agents
