@@ -11,20 +11,14 @@
 		"homepage": "https://modrinth.com/mod/its-dyeing-time",
 		"sources": "https://github.com/Blyrium/its-dyeing-time-1.20.1"
 	},
-	"license": "MIT",
+	"license": "CC BY-NC 4.0",
 	"icon": "assets/itsdyeingtime/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"net.blyrium.itsdyeingtime.ItsDyeingTime"
-		],
-		"fabric-datagen": [
-			"net.blyrium.itsdyeingtime.ItsDyeingTimeDataGenerator"
 		]
 	},
-	"mixins": [
-		"itsdyeingtime.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.15.3",
 		"minecraft": "~1.20",
