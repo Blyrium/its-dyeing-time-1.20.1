@@ -1,6 +1,6 @@
 ### New Black Dyeing Agents
 
-![Black Dye from Coal/Charcoal](https://cdn.modrinth.com/data/UGmbYe4K/images/afb598458251b6e0ca0c209b68ae97d6d21fb7fb.png)
+![Black Dye from Coal/Charcoal](https://cdn.modrinth.com/data/UGmbYe4K/images/d52f43505192886a3a16b2a94c53efac39cfddaf.gif)
 
 Coal or Charcoal
 
@@ -44,11 +44,13 @@ Kelp
 
 ![bubble coral = magenta dye](https://cdn.modrinth.com/data/UGmbYe4K/images/219e7860069eee50778ab4d9a969cc75b352baa3.png)
 
+Bubble Coral
+
 ### New Orange Dyeing Agents
 
-![2 Carrots = Orange Dye, or Glowstone Dust = Orange Dye](https://cdn.modrinth.com/data/UGmbYe4K/images/5502099e164bd89f82cac31bcf425bf39ff81aa9.gif)
+![2 Carrots = Orange Dye, or Glowstone Dust = Orange Dye, or Glow Berries = Orange Dye](https://cdn.modrinth.com/data/UGmbYe4K/images/719785f1a899462fb36f2c08d8ec3c94d8afdf21.gif)
 
-One Glowstone Dust or two Carrots, because carrots aren't known for bleeding colour.
+One Glowstone Dust, Glow Berries, or two Carrots, because carrots aren't known for bleeding colour.
 
 ### New Pink Dyeing Agents
 
@@ -94,3 +96,7 @@ A: It should. There's one overlapping recipe, though, but it shouldn't be a prob
 Tested with Fabric API 0.92.0+1.20.1
 
 This mod is provided "as is". It should technically work on all 1.20.X versions of the game. I am not planning to update/backport this mod to a different version of Minecraft. You're free to do so yourself, however.
+
+&nbsp;
+
+<i><p xmlns:cc="http://creativecommons.org/ns#">This work is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license noopener noreferrer" style="text-decoration: none">CC BY-NC 4.0&nbsp;<img style="height:22px;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p></i>
