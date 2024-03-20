@@ -3,9 +3,14 @@
   "category": "misc",
   "group": "orange_dye",
   "ingredients": [
-    {
-      "item": "minecraft:glowstone_dust"
-    }
+    [
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:glow_berries"
+      }
+    ]
   ],
   "result": {
     "item": "minecraft:orange_dye"
